@@ -1,0 +1,23 @@
+{
+  "name": "hobson-response-types",
+  "version": "1.0.0",
+  "description": "officially supported hobson.js response types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrenbritton/hobson-response-types.git"
+  },
+  "keywords": [
+    "hobson",
+    "hobson.js"
+  ],
+  "author": "Darren Britton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrenbritton/hobson-response-types/issues"
+  },
+  "homepage": "https://github.com/darrenbritton/hobson-response-types#readme"
+}
